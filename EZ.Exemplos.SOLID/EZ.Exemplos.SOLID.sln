@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. S - SRP", "1. S - SRP", "{2FBF3F59-93CF-4169-8100-1DC3F24EFAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SRP", "1.SRP\1.SRP.csproj", "{1F55DF00-48FC-4532-B7C8-53D010947B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.SRP", "1.SRP\1.SRP.csproj", "{1F55DF00-48FC-4532-B7C8-53D010947B1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
