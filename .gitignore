@@ -6,4 +6,4 @@
 **/obj
 **/bin
 **.vs
-/EZ.Exemplos.SOLID/.sonarlint
+/.sonarlint
