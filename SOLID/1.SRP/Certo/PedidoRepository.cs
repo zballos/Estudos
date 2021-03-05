@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1.SRP.Certo
+namespace SOLID._1.SRP.Certo
 {
     public class PedidoRepository
     {

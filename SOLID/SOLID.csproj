@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <CodeAnalysisRuleSet>..\.sonarlint\s.o.l.i.dcsharp.ruleset</CodeAnalysisRuleSet>
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
