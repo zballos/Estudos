@@ -1,4 +1,4 @@
-﻿using System;
+﻿using DesignPattern.FactoryMethod;
 
 namespace DesignPattern
 {
@@ -6,7 +6,7 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new FactoryMethodRunner().Run();
         }
     }
 }
