@@ -10,4 +10,8 @@
     <AdditionalFiles Include="..\.sonarlint\s.o.l.i.d\CSharp\SonarLint.xml" Link="SonarLint.xml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="3.LSP\Errado\" />
+  </ItemGroup>
+
 </Project>
