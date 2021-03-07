@@ -1,4 +1,5 @@
-﻿using DesignPattern.FactoryMethod;
+﻿using DesignPattern.BehavioralPatterns.Strategy;
+using DesignPattern.CreationalPatterns.FactoryMethod;
 
 namespace DesignPattern
 {
@@ -7,6 +8,8 @@ namespace DesignPattern
         static void Main(string[] args)
         {
             new FactoryMethodRunner().Run();
+
+            new StrategyRunner().Run();
         }
     }
 }
