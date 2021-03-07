@@ -1,4 +1,4 @@
-﻿namespace DesignPattern.FactoryMethod
+﻿namespace DesignPattern.CreationalPatterns.FactoryMethod
 {
     public abstract class LogisticaFactory
     {
